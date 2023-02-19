@@ -1,0 +1,24 @@
+.header .navbar-nav a {
+  margin-left: 25px;
+  font-size: 18px;
+}
+.header .navbar-nav a:last-child {
+  background-color: #7952b3;
+  color: white;
+  border: 1px solid #7952b3;
+  padding: 8px 50px;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 18px;
+}
+
+@media (max-width:991px){
+  .header .navbar-nav a {
+    margin-left: 0;
+    font-size: 15px;
+}
+.header .navbar-nav a:last-child {
+  padding: 5px 50px;
+  font-size: 16px;
+}
+}

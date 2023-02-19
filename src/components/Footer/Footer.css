@@ -1,0 +1,21 @@
+.footer-area {
+  padding: 60px 0;
+  background-color: #242222;
+  color: #ffffff;
+  text-align: center;
+}
+.footer-area p {
+  margin-bottom: 0;
+  font-size: 20px;
+}
+.footer-area img {
+  margin-bottom: 20px;
+  height: 36px;
+  width: auto;
+}
+
+@media (max-width: 991px){
+  .footer-area p {
+    font-size: 15px;
+}
+}

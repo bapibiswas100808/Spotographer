@@ -1,0 +1,12 @@
+@media (max-width: 991px){
+    .about-image{
+        padding-bottom: 30px;
+    }
+    .about-text{
+        text-align: center;
+        padding-left: 0;
+    }
+    .about-text h2{
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,9 @@
+.sub-header img{
+    width: 100%;
+}
+
+@media (max-width: 991px){
+    .sub-header img{
+        height: 250px;
+    }
+}

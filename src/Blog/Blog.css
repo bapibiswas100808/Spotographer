@@ -1,0 +1,9 @@
+.blog-area{
+    padding: 75px 0;
+}
+@media (max-width: 991px){
+    .blog-area{
+        text-align: center;
+    }
+    
+}
